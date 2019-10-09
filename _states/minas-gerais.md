@@ -12,6 +12,10 @@ title: 'Minas Gerais'
 
 - **[Portal da Transparência do Município de Betim](http://servicos.betim.mg.gov.br/appsgi/servlet/wmtranspinicial)**: http://servicos.betim.mg.gov.br/appsgi/servlet/wmtranspinicial
 
+### Caxambu
+
+- **[Portal da Transparência do Município de Caxambu](http://www.portaltransparencia.gov.br/localidades/3115508-caxambu)**: http://www.portaltransparencia.gov.br/localidades/3115508-caxambu
+
 ### Contagem
 
 - **[Portal da Transparência do Município de Contagem](http://www.contagem.mg.gov.br/?og=527684&te=apresentacao)**: http://www.contagem.mg.gov.br/?og=527684&te=apresentacao
@@ -19,6 +23,10 @@ title: 'Minas Gerais'
 ### Diamantina
 
 - **[Portal da Transparência do Município de Diamantina](https://diamantina.mg.gov.br/a-prefeitura/transparencia/)**: https://diamantina.mg.gov.br/a-prefeitura/transparencia/
+
+### Francisco Sá
+
+- **[Portal da Transparência do Município de Francisco Sá](http://www.cidadesmg.com.br/portaltransparencia/faces/user/portal.xhtml?Param=FranciscoSa)**: http://www.cidadesmg.com.br/portaltransparencia/faces/user/portal.xhtml?Param=FranciscoSa
 
 ### Janaúba
 
@@ -52,6 +60,10 @@ http://lai.memory.com.br/pagina-inicial
 ### Ribeirão das Neves
 
 - **[Portal da Transparência do Município de Ribeirão das Neves](http://www.ribeiraodasneves.mg.gov.br/transparencia)**: http://www.ribeiraodasneves.mg.gov.br/transparencia
+
+### São Lourenço
+
+- **[Portal da Transparência do Município de São Lourenço](http://publicacao.pm-slourenco.siplanweb.com.br/)**: http://publicacao.pm-slourenco.siplanweb.com.br/
 
 ### Uberaba
 
